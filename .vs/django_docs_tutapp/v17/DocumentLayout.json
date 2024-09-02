@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Django-Projects\\django_docs_tutapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\pollapp\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pollapp\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:django_docs_tutapp\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\pollapp\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pollapp\\migrations\\0001_initial.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\pollapp\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pollapp\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:django_docs_tutapp\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\pollapp\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pollapp\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Django-Projects\\django_docs_tutapp\\pollapp\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pollapp\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0001_initial.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\migrations\\0001_initial.py",
+              "RelativeDocumentMoniker": "pollapp\\migrations\\0001_initial.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\migrations\\0001_initial.py",
+              "RelativeToolTip": "pollapp\\migrations\\0001_initial.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-04T22:12:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apps.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\apps.py",
+              "RelativeDocumentMoniker": "pollapp\\apps.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\apps.py",
+              "RelativeToolTip": "pollapp\\apps.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-04T21:45:57.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "models.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\models.py",
+              "RelativeDocumentMoniker": "pollapp\\models.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\models.py",
+              "RelativeToolTip": "pollapp\\models.py",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-04T18:18:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "settings.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\settings.py",
+              "RelativeDocumentMoniker": "django_docs_tutapp\\settings.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\settings.py",
+              "RelativeToolTip": "django_docs_tutapp\\settings.py",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwFkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-03T21:32:50.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "urls.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\urls.py",
+              "RelativeDocumentMoniker": "django_docs_tutapp\\urls.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\django_docs_tutapp\\urls.py",
+              "RelativeToolTip": "django_docs_tutapp\\urls.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-03T20:15:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "urls.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\urls.py",
+              "RelativeDocumentMoniker": "pollapp\\urls.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\urls.py",
+              "RelativeToolTip": "pollapp\\urls.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-03T16:02:20.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "views.py",
+              "DocumentMoniker": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\views.py",
+              "RelativeDocumentMoniker": "pollapp\\views.py",
+              "ToolTip": "D:\\Django-Projects\\django_docs_tutapp\\pollapp\\views.py",
+              "RelativeToolTip": "pollapp\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-03T15:59:43.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

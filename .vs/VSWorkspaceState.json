@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\django_docs_tutapp",
+    "\\pollapp",
+    "\\pollapp\\migrations",
+    "\\pollapp\\migrations\\__pycache__"
+  ],
+  "SelectedNode": "\\pollapp\\models.py",
+  "PreviewInSolutionExplorer": false
+}
